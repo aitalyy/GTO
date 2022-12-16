@@ -1,0 +1,12 @@
+.main-nav {
+    color: red;
+}
+
+.asd{
+    color: aqua;
+}
+
+BODY {
+    background: url(../img/main.png) no-repeat center; /* Параметры фона */
+    /* text-align: center; */
+}
