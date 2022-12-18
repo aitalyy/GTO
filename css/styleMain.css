@@ -1,7 +1,20 @@
-.main-nav {
-    color: red;
+nav {
+    position: fixed;
+    /* margin-left: 35%;
+    margin-right: 35%; */
+    width: 100%;
+    text-align: center;    
+    background-color: white;
+    font-size: 25;
+    font-weight: bold;
+    font-family: "Montserrat", Tahoma, Verdana, Segoe, sans-serif;
 }
 
+a{
+    color: tomato;
+    text-decoration: inherit;
+    margin-left: 20px;
+}
 .asd{
     color: aqua;
 }
